@@ -2,6 +2,7 @@
   "name": "karolina-photo-2.0",
   "private": true,
   "version": "0.0.0",
+  "proxy" : "http://localhost:3000",
   "type": "module",
   "scripts": {
     "dev": "vite",
