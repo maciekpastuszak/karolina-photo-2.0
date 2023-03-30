@@ -15,7 +15,7 @@ const App = () => {
   },[])
   
   return (
-    <div>App</div>
+    <div className="app">app</div>
   )
 }
 
